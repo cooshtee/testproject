@@ -1,5 +1,5 @@
 hello
 
-This is new content
+CHANGED
 
-And some more
+Right come on then
